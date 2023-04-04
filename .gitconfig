@@ -1,0 +1,17 @@
+[user]
+	name = Tran Tuan Anh
+	email = yorkittran@gmail.com
+[commit]
+	gpgsign = true
+[help]
+	autocorrect = 1
+[credential]
+	helper = osxkeychain
+[hub]
+	protocol = https
+[gpg]
+	program = /opt/homebrew/bin/gpg
+[push]
+	autoSetupRemote = true
+[pull]
+	rebase = true
