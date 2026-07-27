@@ -1,0 +1,29 @@
+# Font
+font-family = "MonaspiceAr Nerd Font Mono"
+font-size = 14
+font-thicken = true
+
+# Window
+window-padding-x = 8
+window-padding-y = 8
+window-padding-balance = true
+
+# Cursor
+cursor-style = bar
+cursor-style-blink = true
+
+# Shell integration
+shell-integration = zsh
+shell-integration-features = cursor,sudo,title
+
+# Performance
+scrollback-limit = 10000
+
+# Quality of life
+copy-on-select = true
+
+# Theme
+theme = flate
+
+desktop-notifications = true
+window-save-state = always

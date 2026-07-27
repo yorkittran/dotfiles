@@ -1,0 +1,80 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette
+{
+  // Fonts
+  "cli_default_open_behavior": "new_window",
+  "diff_view_style": "split",
+  "icon_theme": "Catppuccin Frappé",
+  "project_panel": {
+    "dock": "right"
+  },
+  "outline_panel": {
+    "dock": "left"
+  },
+  "collaboration_panel": {
+    "dock": "left"
+  },
+  "agent": {
+    "dock": "right",
+    "favorite_models": [],
+    "model_parameters": []
+  },
+  "git_panel": {
+    "group_by": "none",
+    "tree_view": true,
+    "dock": "right"
+  },
+  "base_keymap": "VSCode",
+  "tab_bar": {
+    "show": true
+  },
+  "cursor_blink": true,
+  "auto_indent_on_paste": true,
+  "use_on_type_format": true,
+  "ensure_final_newline_on_save": true,
+  "hard_tabs": false,
+  "tab_size": 4,
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "buffer_font_family": "MonaspiceAr Nerd Font",
+  "buffer_font_size": 16,
+  "buffer_font_weight": 500,
+  "buffer_font_features": {
+    "calt": true,
+    "ss01": true,
+    "ss02": true,
+    "ss03": true,
+    "ss04": true,
+    "ss05": true,
+    "ss06": true,
+    "ss07": true,
+    "ss08": true,
+    "ss09": true,
+    "liga": true
+  },
+  "ui_font_size": 16,
+  "ui_font_family": "MonaspiceAr Nerd Font",
+
+  "tabs": {
+    "file_icons": true,
+    "git_status": true
+  },
+
+  "theme": {
+    "mode": "dark",
+    "light": "Ayu Light",
+    "dark": "Flate"
+  },
+
+  "indent_guides": {
+    "enabled": true,
+    "coloring": "indent_aware"
+  }
+}
